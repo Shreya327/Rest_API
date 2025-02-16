@@ -17,10 +17,9 @@ This is a simple RESTful API built using **Node.js**, **Express.js**, and **Mong
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/node-rest-api.git
-   cd node-rest-api
-   ```
+```
+git clone https://github.com/Shreya327/Rest_API.git
+```
 2. Install dependencies
 ```
 npm install express mongoose 
