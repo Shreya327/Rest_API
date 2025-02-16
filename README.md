@@ -40,13 +40,12 @@ The API will run on http://localhost:3000/.
 
 ## API Endpoints
 
-+--------+------------------+---------------------------+
-| Method | Endpoint         | Description               |
-+--------+------------------+---------------------------+
-| GET    | /subscribers     | Get all subscribers       |
-| GET    | /subscribers/:id | Get a subscriber by ID   |
-| POST   | /subscribers     | Create a new subscriber  |
-| PATCH  | /subscribers/:id | Update subscriber by ID  |
-| DELETE | /subscribers/:id | Delete subscriber by ID  |
-+--------+------------------+---------------------------+
+| Method  | Endpoint            | Description             |
+|---------|---------------------|-------------------------|
+| GET     | `/subscribers`       | Get all subscribers    |
+| GET     | `/subscribers/:id`   | Get subscriber by ID   |
+| POST    | `/subscribers`       | Create a new subscriber |
+| PATCH   | `/subscribers/:id`   | Update subscriber by ID |
+| DELETE  | `/subscribers/:id`   | Delete subscriber by ID |
+
 
